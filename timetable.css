@@ -1,0 +1,67 @@
+.one{
+    height: 40px;
+    width:140px;
+    background-color: bisque;
+}
+h1{
+font-size: 30px;
+color:cadetblue;
+text-align: center;
+}
+table{
+ width:1680px;
+ background-color: bisque;
+}
+td{
+ text-align: center;
+ width:140px;
+ height:40px;
+}
+#three{ 
+height: 40px;
+width:280px;
+background-color: bisque;
+}
+#five{
+width:280px;
+height: 40px;
+background-color:bisque;
+}
+th{
+    height:40px;
+
+}
+.p{
+    background-color: coral;
+}
+.m{
+    background-color: darkcyan;
+}
+.n{
+    background-color: aqua;
+}
+.padding{
+padding-top: 10px;
+}
+.error{
+color:red;
+}
+#zero{
+height: 160px;
+background-color: bisque; 
+}
+.two{
+height: 40px;
+    width:140px;
+    background-color:coral; 
+}
+.four{
+background-color:coral; 
+height:40px;
+width:280px;
+}
+#add{
+    width: 400px;
+    float:right;
+    font-size: 25px;
+}
